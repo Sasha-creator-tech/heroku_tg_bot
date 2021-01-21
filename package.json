@@ -1,0 +1,21 @@
+{
+  "name": "TelegramBot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "14.15.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cli": "^1.0.1",
+    "express": "^4.17.1",
+    "heroku": "^7.47.7",
+    "node-telegram-bot-api": "^0.51.0"
+  }
+}
